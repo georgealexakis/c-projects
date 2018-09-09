@@ -4,3 +4,4 @@
 2. C shares prices
 3. C sorting algorithms
 4. C ADT dictionary with hash table
+5. C double linked list calculator
