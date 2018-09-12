@@ -1,13 +1,15 @@
 # Projects with C programming language
 C Projects are some very useful code parts like sorting algorithms, double linked lists implementation and many more.
 # C functions with strings
-- void replaceR(char *x);
-- void mergeString(char *x, char *y);
-- void upperString(char *x);
-- void lowerString(char *x);
-- void reverseString(char *x);
+This project is presenting some very common functions that are able to manipulate and transform strings.
+- void replaceR(char *x): It replaces r character with - from a string.
+- void mergeString(char *x, char *y): It merges 2 strings.
+- void upperString(char *x): It transforms string's characters to uppercase.
+- void lowerString(char *x): It transforms string's characters to uppercase.
+- void reverseString(char *x); It reverses the string's characters.
 - int isPalindrome(char *x);
 # C shares prices
+This project is able to count the prices of shares.
 # C sorting algorithms
 - void table_filling(int *x, int y);
 - void insertion_asc(int *x, int y);
