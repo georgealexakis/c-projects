@@ -1,5 +1,5 @@
 # Projects with C programming language
-
+C Projects are some very useful code parts like sorting algorithms, double linked lists implementation and many more.
 # C functions with strings
 - void replaceR(char *x);
 - void mergeString(char *x, char *y);
