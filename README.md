@@ -44,4 +44,4 @@ C Projects are some very useful code parts like sorting algorithms, double linke
 - int converter(char x);
 - void calculator(LIST *x, LIST *y, char p);
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/georgealexakis/c-projects/blob/master/LICENSE)
