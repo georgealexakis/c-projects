@@ -12,4 +12,4 @@ C Projects are some very useful code parts like sorting algorithms, double linke
 # C ADT dictionary with hash table
 # C double linked list calculator
 
-[![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
